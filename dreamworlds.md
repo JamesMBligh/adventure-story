@@ -8,13 +8,20 @@ What Ashley does inside the dream-world **directly changes the patient's waking 
 
 This is the thing that makes every choice load-bearing. Ashley is not an observer; Ashley is operating on a living mind in real time. Wrong action inside causes real-world harm. There is no rehearsal, only practice with consequences.
 
-## Ashley's form inside
-**Ashley appears as themselves.** Their own body, their own face, their own clothes. They walk into the dream as a real-looking stranger.
+## The operator's form inside
+**The operator appears as themselves.** Their own body, their own face, their own clothes. They walk into the dream as a real-looking stranger.
 
 This is significant:
-- The patient (their dream-self) **can perceive Ashley**, and registers them as someone-not-of-this-dream.
-- Different patients react differently — some accept Ashley as part of the world; some try to make sense of them inside the dream-logic; some treat them as intruder.
-- Ashley has to navigate "I am the only thing here that knows it is a dream" without breaking the dream prematurely.
+- The patient (their dream-self) **can perceive the operator**, and registers them as someone-not-of-this-dream.
+- Different patients react differently — some accept the operator as part of the world; some try to make sense of them inside the dream-logic; some treat them as intruder.
+- The operator has to navigate "I am the only thing here that knows it is a dream" without breaking the dream prematurely.
+
+## The observer's form inside
+The device's **third chair** allows a passive observer to enter the dream alongside the operator. The observer is present and perceiving — they see what the operator sees, hear what the operator hears, can move freely — but they **cannot interact** with the dream. The patient's dream-self does not see them. They cannot pick anything up, change anything, or be touched. They are a witness, not an actor.
+
+This is how Ashley trained. They went into many of Elias's sessions in the observer's chair, watching the work from inside without bearing its weight. It is also the configuration in which two trusted people can debrief a session by reference to the same experience — one of them can say *"do you remember the room with the broken clock?"* and mean exactly the same room.
+
+The observer can speak with the operator via the standard two-way comms (subvocalised; routed through the rig). They cannot speak to the patient or affect anything in the dream-world. To the dream itself, the observer simply does not exist.
 
 ## What Ashley does inside (the work)
 **Different per case.** No two minds need the same operation. Part of the diagnostic skill — and the gameplay — is figuring out what kind of intervention this dream needs:
