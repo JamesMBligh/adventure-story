@@ -27,6 +27,9 @@ A disgraced psychiatrist, **Dr. Elias Wren**, co-built a device with his fratern
 - `dreamworlds.md` — what happens inside (operator and observer), exit, comms, time
 - `history.md` — the brothers' research, the heretical theory, the accident, the disgrace
 - `arc.md` — the season-arc: tutorial, standard loop, mid-game pivot (treating Elias), Ezra arc, endgame
+- `patients.md` — working roster of patient maladies for game cases
+- `design.md` — the game design itself: tech, gameplay loop, hub navigation, hints, file system
+- `scenes/` — written scenes (currently `the_offer.md`)
 
 ## Established (load-bearing facts)
 - Format: Game / interactive
