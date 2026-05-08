@@ -10,7 +10,7 @@ Names are provisional working IDs. Dream-world themes and goals will be designed
 - Mid-40s. Successful concert pianist who froze on stage at a high-profile recital ~15 months ago and has not performed since.
 - Body intact, technique intact. The freeze is psychological.
 - Underlying: sustained verbal cruelty from a childhood music teacher, never integrated. The stage was the place she was most ashamed; the freeze is the buried shame surfacing.
-- **Acuteness: moderate.** Suitable for game-start / tutorial level (already used in `scenes/the_offer.md`).
+- **Acuteness: moderate.** Suitable for game-start / tutorial level (already used in [scenes/the_offer.md](scenes/the_offer.md)).
 
 ## 2. Joseph Lamb — survivor's guilt
 - Late 50s. Sole survivor of a bus crash a decade ago in which seven others died.
@@ -98,7 +98,7 @@ For each case, the dream-world should:
 - Contain a **knot** — a place, figure, object, or moment that is the resolution point.
 - Demand a **specific kind of intervention** — find-and-change, conversation, witness, hold-and-stay, or other.
 - Be **suitable for the patient's acuteness** — milder cases get cleaner, more contained dreams; severe cases sprawl and resist.
-- Pair the **strangeness flavour** to the patient — dreamlike-mythic, cosmic-unknowable, biological-organic, surreal-mundane (see `dreamworlds.md`).
+- Pair the **strangeness flavour** to the patient — dreamlike-mythic, cosmic-unknowable, biological-organic, surreal-mundane (see [dreamworlds.md](dreamworlds.md)).
 
 ## Suitability for the game arc
 - **Tutorial / first solo:** Whitfield (already used).

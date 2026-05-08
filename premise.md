@@ -14,14 +14,14 @@ Ashley does not yet fully see that the work has two layers. The story can pull o
 **Weird / surreal.** The flavor of strangeness shifts to match the patient's psyche — dreamlike-mythic, cosmic-unknowable, biological-organic, surreal-mundane all on the table depending on the case.
 
 ## The disgrace, briefly
-Elias and Ezra were academic researchers pushing a heretical theory: that psychological injury can be treated by direct technical intervention via the device they had built. The field would not believe them. Frustrated, they ran risk-taking experiments on each other and Ezra was injured. Ezra's hospitalisation forced the matter into the open; Elias lost his medical license and the brothers' research was discredited. The establishment never believed the device worked, so it was never confiscated. Elias still has it. See `history.md`.
+Elias and Ezra were academic researchers pushing a heretical theory: that psychological injury can be treated by direct technical intervention via the device they had built. The field would not believe them. Frustrated, they ran risk-taking experiments on each other and Ezra was injured. Ezra's hospitalisation forced the matter into the open; Elias lost his medical license and the brothers' research was discredited. The establishment never believed the device worked, so it was never confiscated. Elias still has it. See [history.md](history.md).
 
 ## The risk lives only with the patient
 Because the dream IS the therapy, the device writes onto the patient's mind every time. Wanted changes (releasing grief, dissolving compulsion) and unwanted changes (damage, displacement, devastation) are the same mechanism operating at different doses.
 
 **The operator is safe. The patient is not.** Ashley always comes back from a dream intact. The patient might not come back as themselves.
 
-This is the ethical spine of the story. There is one historical data point on the worst case: **the collaborator**. During development, Wren and the collaborator alternated as operator and patient. The collaborator was the patient when the harm happened; Wren was the operator. The collaborator is alive but mentally devastated. Wren has continued the work since, with the same hands. See `collaborator.md`.
+This is the ethical spine of the story. There is one historical data point on the worst case: **the collaborator**. During development, Wren and the collaborator alternated as operator and patient. The collaborator was the patient when the harm happened; Wren was the operator. The collaborator is alive but mentally devastated. Wren has continued the work since, with the same hands. See [collaborator.md](collaborator.md).
 
 Ashley does this work knowing all of that. They are not in danger. The person sedated and dreaming on the other chair is.
 

@@ -15,21 +15,21 @@ A disgraced psychiatrist, **Dr. Elias Wren**, co-built a device with his fratern
 - The device's existence is a secret kept from patients and the public. Documentation = prison. Secrecy is a precondition for the work, not a preference.
 
 ## Files
-- `README.md` — this index
-- `premise.md` — central hook, conflict, themes
-- `protagonist.md` — Dr. Elias Wren
-- `apprentice.md` — Ashley (and the gender-neutrality rule)
-- `collaborator.md` — Ezra Wren, Elias's twin brother, kept in a closed area of the house
-- `device.md` — the rig (three chairs + monitor), its rules, its costs
-- `clinic.md` — the clinical operation, the inner circle, the structure of who knows what
-- `nurse.md` — Alison Carter, primary carer for Ezra; refuses to operate the device
-- `estate.md` — the wider property: family home, commercial farm, buildings, the people on it
-- `dreamworlds.md` — what happens inside (operator and observer), exit, comms, time
-- `history.md` — the brothers' research, the heretical theory, the accident, the disgrace
-- `arc.md` — the season-arc: tutorial, standard loop, mid-game pivot (treating Elias), Ezra arc, endgame
-- `patients.md` — working roster of patient maladies for game cases
-- `design.md` — the game design itself: tech, gameplay loop, hub navigation, hints, file system
-- `scenes/` — written scenes (currently `the_offer.md`)
+- **README.md** — this index
+- [premise.md](premise.md) — central hook, conflict, themes
+- [protagonist.md](protagonist.md) — Dr. Elias Wren
+- [apprentice.md](apprentice.md) — Ashley (and the gender-neutrality rule)
+- [collaborator.md](collaborator.md) — Ezra Wren, Elias's twin brother, kept in a closed area of the house
+- [device.md](device.md) — the rig (three chairs + monitor), its rules, its costs
+- [clinic.md](clinic.md) — the clinical operation, the inner circle, the structure of who knows what
+- [nurse.md](nurse.md) — Alison Carter, primary carer for Ezra; refuses to operate the device
+- [estate.md](estate.md) — the wider property: family home, commercial farm, buildings, the people on it
+- [dreamworlds.md](dreamworlds.md) — what happens inside (operator and observer), exit, comms, time
+- [history.md](history.md) — the brothers' research, the heretical theory, the accident, the disgrace
+- [arc.md](arc.md) — the season-arc: tutorial, standard loop, mid-game pivot (treating Elias), Ezra arc, endgame
+- [patients.md](patients.md) — working roster of patient maladies for game cases
+- [design.md](design.md) — the game design itself: tech, gameplay loop, hub navigation, hints, file system
+- [scenes/](scenes/) — written scenes (currently [the_offer.md](scenes/the_offer.md))
 
 ## Established (load-bearing facts)
 - Format: Game / interactive

@@ -35,7 +35,7 @@ This is not a purpose-built clinic. It is the house Elias and Ezra **grew up in*
 
 This matters. Every corner of the house has a memory in it that is not the present. The building itself is the same kind of palimpsest as Ezra's mind.
 
-The wider property is a **working commercial farm**, run by the Groundskeeper. See `estate.md` for the property overall.
+The wider property is a **working commercial farm**, run by the Groundskeeper. See [estate.md](estate.md) for the property overall.
 
 ## Layout — and the secret area
 The house has two zones:
@@ -46,11 +46,11 @@ The house has two zones:
 ## Cast at the clinic
 - **Elias Wren** — owner, lives in the main house.
 - **Ashley** — apprentice and operator. Lives in the main house, has a room there. Knows about the device and the deception of patients. **Does not know about Ezra.** Curious about the closed area but does not ask. Trusted with the operating chair but not with the truth of why the work exists.
-- **Mrs. Edith Halloran** — long-time housekeeper and receptionist, lives in the main house. Came to **Elias** as a patient years after the accident, severely depressed after losing her **husband and child**. She was an **early patient of the post-accident sanitorium phase** (see `history.md`), treated successfully, and asked to stay and help. She has run the front of the house since.
+- **Mrs. Edith Halloran** — long-time housekeeper and receptionist, lives in the main house. Came to **Elias** as a patient years after the accident, severely depressed after losing her **husband and child**. She was an **early patient of the post-accident sanitorium phase** (see [history.md](history.md)), treated successfully, and asked to stay and help. She has run the front of the house since.
   - She **knows about the device** — she experienced it herself, was told the truth in the years that followed, and has been part of the inner circle ever since.
   - She **knows about Ezra.** She has known for years. She did not know him when he was well; he was already broken before she arrived. He is a fact of the house, not a memory.
   - She **does not tell Ashley.** She has watched Ashley arrive as a patient, be treated, become apprentice, be trained on the device — all without ever revealing what is in the closed area. This is something she carries. She and Wren have agreed on this silence. Whether she fully agrees with it, she has never said.
-- **Alison Carter** — the Nurse (`nurse.md`), early forties, formally trained. Lives in the **converted stables** with her husband David and their son Ryan (fifteen, at boarding school most of the year). Long-standing employee with great affection and trust for both brothers, built up over years of close association. **No-nonsense, disciplined, briskly efficient with patients who indulge in self-pity; surprisingly soft when caring for Ezra.** To the six in-patients she presents as a house matron — light supervision, meals, medication, the daily check-ins. Her real job is **constant attendance on Ezra** in the closed parents' suite.
+- **Alison Carter** — the Nurse ([nurse.md](nurse.md)), early forties, formally trained. Lives in the **converted stables** with her husband David and their son Ryan (fifteen, at boarding school most of the year). Long-standing employee with great affection and trust for both brothers, built up over years of close association. **No-nonsense, disciplined, briskly efficient with patients who indulge in self-pity; surprisingly soft when caring for Ezra.** To the six in-patients she presents as a house matron — light supervision, meals, medication, the daily check-ins. Her real job is **constant attendance on Ezra** in the closed parents' suite.
 - **David Carter** — the Groundskeeper, Alison's husband, also early forties. Manages the estate and the commercial farm. Lives in the converted stables. Knows about Ezra but believes (with the rest of the world) that it was a stroke or breakdown decades ago. **Does not know about the device.**
 
 ## How the house actually runs
@@ -78,7 +78,7 @@ Ashley is the most-trusted *operator* and the least-trusted *intimate*. That asy
 ## Wren's justification for the deception
 **Disclosure is impossible.** Wren's stated position: there is no version of this work that survives being documented. Even an informed-consent form is evidence of crimes that would put him and Ashley in prison and shut the work down forever. Secrecy is therefore not a preference but a precondition — the patients can't be told, because being able to tell them would mean the work could not exist.
 
-The legal stakes are real. Elias has already lost his medical license over Ezra's injury (see `history.md`). A second incident of unauthorized human experimentation — especially one shown to involve a *device* the establishment thought was junk-science — would not end with another revocation. It would end with prison. The clinic operates under a hypnotherapy framing because hypnotherapy is one of the few practices that can be conducted without a medical license; everything else they do has no legal cover at all.
+The legal stakes are real. Elias has already lost his medical license over Ezra's injury (see [history.md](history.md)). A second incident of unauthorized human experimentation — especially one shown to involve a *device* the establishment thought was junk-science — would not end with another revocation. It would end with prison. The clinic operates under a hypnotherapy framing because hypnotherapy is one of the few practices that can be conducted without a medical license; everything else they do has no legal cover at all.
 
 This is the rationalization Ashley has accepted. It's also self-serving. Wren never quite says it, but: documentation would mean prison.
 

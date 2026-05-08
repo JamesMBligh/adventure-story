@@ -48,7 +48,7 @@ The years between the accident and the present have a clear shape, in four phase
 
 ### Phase 1 — Care and reckoning (immediately after the accident)
 - Ezra is hospitalised, then brought home. He cannot live independently and never will.
-- **David and Alison Carter are hired** to care for him and to run the estate. Alison, freshly trained as a nurse, takes on Ezra's full-time care; David takes on the grounds and the farm. They were both in their early twenties. They have been on the property ever since. (See `nurse.md`, `estate.md`.)
+- **David and Alison Carter are hired** to care for him and to run the estate. Alison, freshly trained as a nurse, takes on Ezra's full-time care; David takes on the grounds and the farm. They were both in their early twenties. They have been on the property ever since. (See [nurse.md](nurse.md), [estate.md](estate.md).)
 - Elias retreats from the world. He has lost his license, his standing, his brother. He does not see patients. He works.
 - **He spends this period understanding why the device injured Ezra** — what part of the apparatus, what part of the protocol, what part of the operator's behaviour, was the actual cause. He realises the device needs **safeguards he had not known were needed**: the three-chair architecture, the monitor's role, the exit phrase, the safety protocols. He builds them in.
 
@@ -69,7 +69,7 @@ When Elias is ready for human trials, he opens a **private sanitorium** in the f
 **Edith Halloran was an early patient of this phase.** Severely depressed after losing her husband and child, she was treated successfully. Grateful and with nowhere else she wanted to be, she **asked to stay and help.** Elias gave her the housekeeping and reception role. She has run the front of the house since.
 
 ### Phase 4 — The current residential clinic
-Over time the practice expanded. The current operation — **up to six in-patients in residence at a time, weekly cycles, more substantial cases though still not the very worst** — is a more ambitious version of the sanitorium model. The caseload eventually grew past what Elias and Alison could handle as a duo at the device, and **Ashley was brought in as apprentice**, ostensibly to take pressure off the rig. (See `arc.md` for game-start.)
+Over time the practice expanded. The current operation — **up to six in-patients in residence at a time, weekly cycles, more substantial cases though still not the very worst** — is a more ambitious version of the sanitorium model. The caseload eventually grew past what Elias and Alison could handle as a duo at the device, and **Ashley was brought in as apprentice**, ostensibly to take pressure off the rig. (See [arc.md](arc.md) for game-start.)
 
 Through every phase, the work has had two layers: the patients are genuinely helped, and the work is also a long path toward attempting Ezra's recovery. Both halves are true. The further along the path, the more the second half presses.
 

@@ -6,7 +6,7 @@ The narrative opens with **Ashley already established in the house but still fee
 
 When Ashley was healed, Elias offered them the apprenticeship. The reason he needed an apprentice is practical: until then, **Elias and Alison had operated the device together** — Elias going in, Alison monitoring from outside — but as the caseload grew, that arrangement could not scale. Alison cannot be in the monitor's chair every session and still attend Ezra. Ashley was brought in to relieve the pressure.
 
-The reason he approached *Ashley* specifically is that they were both a successful and grateful patient *and* had the right background: a recent **bachelor's in psychology** and the stated desire to clinic. Elias was selecting from the rare overlap. (See `apprentice.md`.)
+The reason he approached *Ashley* specifically is that they were both a successful and grateful patient *and* had the right background: a recent **bachelor's in psychology** and the stated desire to clinic. Elias was selecting from the rare overlap. (See [apprentice.md](apprentice.md).)
 
 ## What Ashley has actually done before game-start
 - **Trained as the monitor** — running the device from outside while Elias operated. Initially Alison oversaw them; now they do it solo as standard.

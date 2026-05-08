@@ -8,7 +8,7 @@
 ## Status (load-bearing facts)
 - **Where Elias was drawn to the mind, Ezra was drawn to how things work** — the engineering of mechanical and biological systems. He became a builder of physical apparatus and a knower of the body that meets it.
 - **The device is the literal expression of both of their skills combined.** Elias contributed the psychiatry and the theory of dream-walking; Ezra contributed the engineering — the rig, the headset, the sedation protocols, the biological interface, the entire machine. **Neither of them could have built it alone.**
-- The brothers were **academic researchers** — universities, journals, peer review — pushing a heretical theory the field would not believe (see `history.md`).
+- The brothers were **academic researchers** — universities, journals, peer review — pushing a heretical theory the field would not believe (see [history.md](history.md)).
 - During development, the brothers **took turns being the patient and the operator**, testing the device on each other. The early device was crude and lacked safeguards they did not yet know were needed.
 - **Frustration at not being believed pushed them to take risks.** They ran sessions beyond what they had reason to think was safe, hoping to produce results clean enough to force the field to look.
 - During one of those risk-taking sessions, **Ezra was the patient.** Elias was the operator. The session went wrong. Ezra was injured.
@@ -47,8 +47,8 @@ He has been in this state for **roughly twenty years**, since the accident.
 
 The conservatory matters. It is full of light and living things; he can move through it safely; the plants give him a slow, organic sensory environment that does not amplify what is already happening in his mind.
 
-- **Mrs. Halloran knows about Ezra and has known since her own treatment, decades ago** (see `clinic.md`). She was healed by the brothers when the device was still experimental; she knew Ezra when he was well.
-- **The Nurse** (see `nurse.md`) attends to Ezra daily. He is her primary charge; the in-patients are a secondary duty.
+- **Mrs. Halloran knows about Ezra and has known since her own treatment, decades ago** (see [clinic.md](clinic.md)). She was healed by the brothers when the device was still experimental; she knew Ezra when he was well.
+- **The Nurse** (see [nurse.md](nurse.md)) attends to Ezra daily. He is her primary charge; the in-patients are a secondary duty.
 - **Ashley does not know Ezra exists.** They are aware that there is a part of the house they do not go into. They are curious. They do not press. This curiosity is one of the engines of the player's arc.
 
 ## The shape of his damage — load-bearing
@@ -77,7 +77,7 @@ Late in the story, **Ashley is the one who operates on Ezra.** The role assignme
 - **Alison** — willing to monitor, but **refuses to operate the device** at all. Has cared for the man it broke; will not sit in the chair that can be put in his. This is fixed.
 - **Elias** — refuses to operate on Ezra. Because of what happened. He has not been the active hands inside Ezra's dream since the day he came back alone, and he will not be again.
 
-So the recovery falls to Ashley. The apprentice is the one who will undo what the master could not. See `arc.md`.
+So the recovery falls to Ashley. The apprentice is the one who will undo what the master could not. See [arc.md](arc.md).
 
 The first Ezra session is **reassembling the shards** — gathering the fragments of his consciousness, restoring some partition between present, memory, and imagination. Each subsequent Ezra session is a chapter boundary in the larger story; each one brings him a little further back and reveals a little more of the brothers' history. By the end, Ezra is healed.
 

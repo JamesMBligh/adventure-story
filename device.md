@@ -47,13 +47,13 @@ Wren and the collaborator alternated as patient and operator during development.
 The only real toll is **physical exhaustion** — migraines, sleep disturbance, slow recovery between sessions. Draining work, but bounded. Ashley accumulates fatigue, not damage. The dream cannot keep them.
 
 ## Origin
-- Built by **Elias Wren and his fraternal twin brother, Ezra,** as **academic research** over decades of joint work. They published, presented, fought to be taken seriously, and were not. The field met their core claim — that psychological injury could be treated by direct technical intervention — with sustained scepticism. See `history.md`.
+- Built by **Elias Wren and his fraternal twin brother, Ezra,** as **academic research** over decades of joint work. They published, presented, fought to be taken seriously, and were not. The field met their core claim — that psychological injury could be treated by direct technical intervention — with sustained scepticism. See [history.md](history.md).
 - Elias contributed the psychiatry and the theory of dream-walking; Ezra contributed the engineering — the rig, the headset, the sedation protocols, the biological interface, the apparatus itself. **Neither of them could have built it alone.**
 - The early device worked but was **crude and lacked safeguards** the brothers did not yet know were needed.
 - During development the brothers took turns as operator and patient, testing the device on each other. Frustrated at not being believed, they pushed for results — taking sessions beyond what they had reason to think was safe.
-- During one of those sessions, with Ezra as patient and Elias as operator, something went wrong inside the dream. Ezra did not come back to himself. He is alive but mentally devastated. See `collaborator.md`.
+- During one of those sessions, with Ezra as patient and Elias as operator, something went wrong inside the dream. Ezra did not come back to himself. He is alive but mentally devastated. See [collaborator.md](collaborator.md).
 - **Ezra's injury was the accident that ended the brothers' research and cost Elias his license** — human experimentation without ethics approval, evidenced by the harm. The current safeguards in the rig — three chairs, monitor's role, exit phrase, the safety protocols — are products of catastrophe, not foresight. They exist because Ezra paid for them.
-- **In the years after the accident, Elias rebuilt and revalidated the device.** He spent years testing the rebuilt rig on animals across multiple species, culminating in a chimpanzee, before resuming human trials. The current device is therefore a *second-generation* apparatus: same basic invention, but with safety protocols developed and proven in the wake of the harm. See `history.md`.
+- **In the years after the accident, Elias rebuilt and revalidated the device.** He spent years testing the rebuilt rig on animals across multiple species, culminating in a chimpanzee, before resuming human trials. The current device is therefore a *second-generation* apparatus: same basic invention, but with safety protocols developed and proven in the wake of the harm. See [history.md](history.md).
 - **Elias never speaks of him directly.** Only occasional, unguarded references slip out — *"the work we did together"*, *"that was his design"*, *"he would have known"*. Ashley pieces him together over time. Once or twice, in unguarded moments, Elias says **"Ez"** — the brothers' lifelong pet name for each other (Ezra called Elias **"El"**).
 - Ezra's absence is a load-bearing silence in Elias's life. It is **guilt as much as grief**: Elias was inside his brother's dream when it happened. He is the one whose hands did it. He has continued the work since, with the same hands — and the work is, in private, the long search for a way back to him.
 
@@ -63,7 +63,7 @@ The only real toll is **physical exhaustion** — migraines, sleep disturbance, 
 ## Secrecy
 **Almost no one knows the device exists.** Wren, Ashley, and presumably the vanished collaborator (wherever they are). The rest of the world has no idea.
 
-**Critically, the patients themselves do not know.** They are told they are receiving hypnotherapy. They are hypnotised, then sedated, then connected to the device without their knowledge. They wake believing the hypnosis worked. See `clinic.md` for the full ethical and practical structure of this deception — it is the central moral fault line of the story.
+**Critically, the patients themselves do not know.** They are told they are receiving hypnotherapy. They are hypnotised, then sedated, then connected to the device without their knowledge. They wake believing the hypnosis worked. See [clinic.md](clinic.md) for the full ethical and practical structure of this deception — it is the central moral fault line of the story.
 
 ## Open questions
 - Who was the collaborator? What was their role — engineer, neuroscientist, theorist, patient zero?

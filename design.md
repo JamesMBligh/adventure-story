@@ -25,7 +25,7 @@ Each patient's dream is a **self-contained click-based adventure level**. Inside
 - **Success** — the puzzle is resolved correctly within the dream. The patient improves on waking. Progress is made.
 - **Leaving without success** — the operator can always exit (the standing safety rule). Leaving early means the work was not done. The patient does not improve from that session. Re-entry is permitted within the patient's stay.
 
-The dream's **persistence across sessions** (per `dreamworlds.md`) means a patient who needs multiple sessions has the *same* dream-world to return to. Items found, places mapped, and conversations had can be carried forward.
+The dream's **persistence across sessions** (per [dreamworlds.md](dreamworlds.md)) means a patient who needs multiple sessions has the *same* dream-world to return to. Items found, places mapped, and conversations had can be carried forward.
 
 ### 2. The house (hub world)
 Between dreams, the player navigates the **Wren family home** as a point-and-click hub:
@@ -53,7 +53,7 @@ Adventure games stall when the player gets stuck, and the cure for being stuck c
 
 ## Progression and pacing
 - **Standard loop:** read patient file → interview patient → enter dream → solve (or retry) → patient improves → next case.
-- **Scripted hub events** between sessions move the larger story forward (`arc.md`).
+- **Scripted hub events** between sessions move the larger story forward ([arc.md](arc.md)).
 - **Mid-game pivot:** Ashley operates on Elias. This session unlocks Ezra's existence to Ashley and unlocks the closed area of the house.
 - **Late game:** Ezra sessions become the chapter boundaries, interleaved with continuing patient cases.
 - **Endgame:** the full backstory is exposed; Ezra is healed; the practice and the household resolve.

@@ -35,7 +35,7 @@ Reading the dream — what it is asking for — is the heart of the work.
 ## The asymmetry of risk
 **Ashley cannot be harmed.** Whatever the dream does, whatever the patient's dream-self does, however lost a place feels — Ashley always comes back, intact in body and mind. The device was demonstrated safe for the operator during development.
 
-**The patient is the one in jeopardy.** What Ashley does inside the dream — including doing nothing, missing something, being too slow, getting it wrong — can leave the patient damaged when they wake. The collaborator is the precedent: a session in which the operator's actions left the patient in a state they did not return from. See `collaborator.md`.
+**The patient is the one in jeopardy.** What Ashley does inside the dream — including doing nothing, missing something, being too slow, getting it wrong — can leave the patient damaged when they wake. The collaborator is the precedent: a session in which the operator's actions left the patient in a state they did not return from. See [collaborator.md](collaborator.md).
 
 This is the ethical spine of the story. Ashley walks into a sleeping mind from a position of guaranteed safety. The patient is sedated, deceived, and dreaming. Every choice Ashley makes inside is a choice made *from* protection *over* someone in total vulnerability. There is no symmetric risk to balance the responsibility.
 
